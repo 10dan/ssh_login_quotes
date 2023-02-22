@@ -1,1 +1,3 @@
-path=./quotes.txt current_line=1
+path=./famous_quotes.txt current_line=1
+path=./family_quotes.txt current_line=2
+path=current_line current_line=1
